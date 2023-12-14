@@ -1,9 +1,9 @@
-- 🔭 I’m currently working on OSPP（开源之夏）- VirtIO Driver Framework/Devices of NXOS
-- 🌱 I’m currently learning OS stuff
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything that I could Help
-- 📫 How to reach me: gmail:hhx.xxm / QQ: 83 double-8 58 double-7
-- ⚡ Fun fact: I want a programming job...
+- 🔭 I’m currently working on my graduation project - An Operating System Kernel based on RISC-V Architecture.
+- 🌱 I’m currently learning Operating System/Unity stuff.
+- 👯 I’m looking for an offer of programming job.
+- 💬 Ask me about anything that I could Help.
+- 📫 How to reach me: gmail:hhx.xxm / QQ: 8388-5877
+- ⚡ Fun fact: I HAVE NO OFFER YET. I AM VERY SAD. TvT
 
 简历: [Click me](https://blog.qvq.moe/resume.pdf)
 
