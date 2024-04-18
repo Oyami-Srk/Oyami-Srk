@@ -1,9 +1,8 @@
 - 🔭 I’m currently working on my graduation project - An Operating System Kernel based on RISC-V Architecture.
 - 🌱 I’m currently learning Operating System/Unity stuff.
-- 👯 I’m looking for an offer of programming job.
 - 💬 Ask me about anything that I could Help.
 - 📫 How to reach me: gmail:hhx.xxm / QQ: 8388-5877
-- ⚡ Fun fact: I HAVE NO OFFER YET. I AM VERY SAD. TvT
+- ⚡ Fun fact: I use the same profile picture in every account.
 
 简历: [Click me](https://blog.qvq.moe/resume.pdf)
 
