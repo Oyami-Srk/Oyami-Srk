@@ -4,7 +4,8 @@
 - 📫 How to reach me: gmail:hhx.xxm / QQ: 8388-5877
 - ⚡ Fun fact: I use the same profile picture in every account.
 
-简历: [Click me](https://blog.qvq.moe/resume.pdf)
+简历: [点击我](https://blog.qvq.moe/resume.pdf)
+Resume: [Click me](https://blog.qvq.moe/Resume/resume-en.pdf)
 
 <div align="center">
 <span>  </span>
