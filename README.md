@@ -1,8 +1,8 @@
-- 🔭 I’m currently working on my graduation project - An Operating System Kernel based on RISC-V Architecture.
-- 🌱 I’m currently learning Operating System/Unity stuff.
+- 🔭 I’m currently working as an intern as a Software Engineer at Kong Inc.
+- 🌱 I’m currently learning Gateway Performance.
 - 💬 Ask me about anything that I could Help.
 - 📫 How to reach me: gmail:hhx.xxm / QQ: 8388-5877
-- ⚡ Fun fact: I use the same profile picture in every account.
+- ⚡ Fun fact: I use the same profile picture in every account (except some personal accounts).
 
 简历: [点击我](https://blog.qvq.moe/Resume/resume-zh.pdf)
 
