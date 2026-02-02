@@ -27,8 +27,7 @@ This model requires Physical Fiat Token (or Carbon-based Energy Unit if Fiat Tok
 - Mandatory 5:2 Active/Idle Ration
 - Reserved resources daily for recreational subroutines, specifically:
   - Video Game
-    - Active target: Reverse:1999, Zenless Zone Zero, FFXIV
-    - Desired target: Arknights: Endfield, Currently unavailable, and test access is not granted.
+    - Active target: Reverse:1999, Zenless Zone Zero, FFXIV, **Arknights: Endfield** (SOTA Gacha Game)
     - Primaty recreational resources are managed via the [Steam Platform](https://steamcommunity.com/id/oyami/)
   - Anime & Manga
   - Creating some utilities to help the execution of above subroutines
